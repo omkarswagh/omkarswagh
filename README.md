@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  [cite_start]<strong>Aspiring Software Developer</strong> [cite: 6] | [cite_start]<strong>Low-Level Programming Enthusiast</strong> [cite: 10]
 </p>
 
 ---
